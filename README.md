@@ -1,34 +1,58 @@
-Основные особенности мода:
-Цель мода: Fastest Hopper предназначен для улучшения производительности и управления ванильными воронками в Minecraft, путем добавления функциональности для настройки их скорости работы.
+# **ENG**
+# Fastest Hopper is designed to control the speed of vanilla hoppers in Minecraft.
 
-Описание функций:
+**Function description:**
 
-Ускорение работы воронок:
+1. Speeding up the speed of the funnels:
+    * The mod allows users to customize the switching speed of vanilla funnels, which can significantly speed up their operation in the game.
+      Users can customize the time interval between funnel operations via a configuration file.
 
-Мод позволяет настраивать скорость переключения ванильных воронок, что позволяет значительно ускорить их работу в игре.
-Пользователи могут настраивать интервал времени между операциями воронки с помощью конфигурационного файла.
-Интеграция с Forge:
+2- Integration with Forge:
+* Fastest Hopper is designed to work with Minecraft Forge for compatibility with other mods and easy installation.
 
-Fastest Hopper разработан для работы с Minecraft Forge, что обеспечивает совместимость с другими модами и удобство установки.
-Конфигурационный файл:
+3. Configuration file:
+   *The mod automatically creates a hopper_config.json configuration file in the Minecraft config directory, where the user can customize the hopper settings.
 
-Мод автоматически создает конфигурационный файл hopper_config.json в директории config Minecraft, где пользователь может настраивать параметры работы воронок.
-Возможность изменять интервал времени между операциями воронки вручную.
-Логирование событий:
+**The mod is designed with an emphasis on ease of use and integration into the game, requiring no complex customizations or additional actions from the user.**
 
-Fastest Hopper включает в себя систему логирования событий, которая позволяет отслеживать изменения и ошибки при работе с воронками и конфигурационным файлом.
-Простота использования:
+**Installation instructions:**
+1. Install Minecraft Forge if it is not already installed.
+2. Download the Fastest Hopper mod from the official website or other source.
+3. Place the mod file in the mods folder of your Minecraft.
+4. Run Minecraft with Forge installed.
+5. Check for the hopper_config.json configuration file in the config directory after you run the game with the mod for the first time.
+6. Edit the config file as you see fit, setting the desired time intervals for the hopper to run.
 
-Мод разработан с упором на простоту использования и интеграцию в игру, не требуя сложных настроек или дополнительных действий от пользователя.
-Инструкции по установке:
-Установите Minecraft Forge, если он еще не установлен.
-Скачайте мод Fastest Hopper с официального сайта или другого источника.
-Поместите файл мода в папку mods вашего Minecraft.
-Запустите Minecraft с установленным Forge.
-Проверьте наличие конфигурационного файла hopper_config.json в директории config после первого запуска игры с модом.
-Отредактируйте конфигурационный файл по своему усмотрению, задавая нужные интервалы времени для работы воронок.
+Requirements for the mod:
+1. Minecraft Forge: The mod requires Minecraft Forge to be installed in order to work.
+2. Minecraft Version: Compatible with version
+
+
+# **RU**
+# Fastest Hopper предназначен для управления скорости ванильнымых воронок в Minecraft.
+
+**Описание функций:**
+
+1. Ускорение работы воронок:
+   * Мод позволяет настраивать скорость переключения ванильных воронок, что позволяет значительно ускорить их работу в игре.
+   Пользователи могут настраивать интервал времени между операциями воронки с помощью конфигурационного файла.
+
+2. Интеграция с Forge:
+   * Fastest Hopper разработан для работы с Minecraft Forge, что обеспечивает совместимость с другими модами и удобство установки.
+
+3. Конфигурационный файл:
+   * Мод автоматически создает конфигурационный файл hopper_config.json в директории config Minecraft, где пользователь может настраивать параметры работы воронок.
+
+**Мод разработан с упором на простоту использования и интеграцию в игру, не требуя сложных настроек или дополнительных действий от пользователя.**
+
+**Инструкции по установке:**
+1. Установите Minecraft Forge, если он еще не установлен.
+2. Скачайте мод Fastest Hopper с официального сайта или другого источника.
+3. Поместите файл мода в папку mods вашего Minecraft.
+4. Запустите Minecraft с установленным Forge.
+5. Проверьте наличие конфигурационного файла hopper_config.json в директории config после первого запуска игры с модом.
+6. Отредактируйте конфигурационный файл по своему усмотрению, задавая нужные интервалы времени для работы воронок.
+
 Требования к моду:
-Minecraft Forge: Мод требует установки Minecraft Forge для работы.
-Версия Minecraft: Совместимость с версией Minecraft, поддерживаемой текущей версией Forge.
-Заключение:
-Fastest Hopper — это удобный и простой в использовании мод, который значительно улучшает работу ванильных воронок в Minecraft, добавляя возможность настройки их скорости работы через конфигурационный файл. Мод подходит как для любителей игры в одиночку, так и для пользователей, предпочитающих многопользовательские сервера с установленными модами.
+1. Minecraft Forge: Мод требует установки Minecraft Forge для работы.
+2. Версия Minecraft: Совместимость с версией Minecraft, поддерживаемой текущей версией Forge.
