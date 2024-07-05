@@ -1,5 +1,5 @@
 # **ENG**
-# Fastest Hopper is designed to control the speed of vanilla hoppers in Minecraft.
+# Fastest Hopper is designed to control the speed of vanilla hoppers in Minecraft 1.19.4.
 
 **Function description:**
 
@@ -7,11 +7,11 @@
     * The mod allows users to customize the switching speed of vanilla funnels, which can significantly speed up their operation in the game.
       Users can customize the time interval between funnel operations via a configuration file.
 
-2- Integration with Forge:
-* Fastest Hopper is designed to work with Minecraft Forge for compatibility with other mods and easy installation.
+2. Integration with Forge:
+   * Fastest Hopper is designed to work with Minecraft Forge for compatibility with other mods and easy installation.
 
 3. Configuration file:
-   *The mod automatically creates a hopper_config.json configuration file in the Minecraft config directory, where the user can customize the hopper settings.
+   * The mod automatically creates a hopper_config.json configuration file in the Minecraft config directory, where the user can customize the hopper settings.
 
 **The mod is designed with an emphasis on ease of use and integration into the game, requiring no complex customizations or additional actions from the user.**
 
@@ -23,13 +23,13 @@
 5. Check for the hopper_config.json configuration file in the config directory after you run the game with the mod for the first time.
 6. Edit the config file as you see fit, setting the desired time intervals for the hopper to run.
 
-Requirements for the mod:
+**Requirements for the mod:**
 1. Minecraft Forge: The mod requires Minecraft Forge to be installed in order to work.
 2. Minecraft Version: Compatible with version
 
 
 # **RU**
-# Fastest Hopper предназначен для управления скорости ванильнымых воронок в Minecraft.
+# Fastest Hopper предназначен для управления скорости ванильнымых воронок в Minecraft 1.19.4.
 
 **Описание функций:**
 
@@ -53,6 +53,6 @@ Requirements for the mod:
 5. Проверьте наличие конфигурационного файла hopper_config.json в директории config после первого запуска игры с модом.
 6. Отредактируйте конфигурационный файл по своему усмотрению, задавая нужные интервалы времени для работы воронок.
 
-Требования к моду:
+**Требования к моду:**
 1. Minecraft Forge: Мод требует установки Minecraft Forge для работы.
 2. Версия Minecraft: Совместимость с версией Minecraft, поддерживаемой текущей версией Forge.
