@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ororura.fastesthopper.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "fastesthopper.refmap.json",
+  "mixins": [
+    "MixinHopperBlockEntity"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
