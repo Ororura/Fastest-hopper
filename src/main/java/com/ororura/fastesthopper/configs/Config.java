@@ -16,7 +16,6 @@ public class Config {
     private static final Logger logger = LoggerFactory.getLogger(Config.class);
     private static final Path configPath = FMLPaths.CONFIGDIR.get();
 
-    // Путь к конфигурационному файлу с разделителем директорий
     private static final String CONFIG_FILE = configPath.resolve("hopper_config.json").toString();
 
     private int coolDownValue = 8;
@@ -59,10 +58,5 @@ public class Config {
 
     public int getCooldownValue() {
         return coolDownValue;
-    }
-
-    // Для тестирования
-    public void setCooldownValue(int coolDownValue) {
-        this.coolDownValue = coolDownValue;
     }
 }
